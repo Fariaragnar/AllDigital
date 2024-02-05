@@ -1,2 +1,0 @@
-# AllDigital
- repositorio versionado
